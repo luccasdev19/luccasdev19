@@ -2,7 +2,7 @@
 
 **`Olá, seja bem-vindo!!`**
 
-Me chamo Lucas Rodrigues de Oliveira, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no ano de 2024, Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINOVE. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu linkedin " (https://www.linkedin.com/in/lucas-oliveira-83826b250)", onde posso desmonstrar o meu desenvolvimento. 
+<a>'Me chamo Lucas Rodrigues de Oliveira, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no ano de 2024, Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINOVE. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu linkedin " (https://www.linkedin.com/in/lucas-oliveira-83826b250)", onde posso desmonstrar o meu desenvolvimento. </a>
 <br/>
 
 ### 🤖 Linguagens e Tecnologias
