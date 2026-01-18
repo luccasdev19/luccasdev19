@@ -29,7 +29,15 @@
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    src="https://img.icons8.com/fluency/96/node-js.png" alt="node-js"/>
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Pyhton"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
 
 
 
