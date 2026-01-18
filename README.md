@@ -7,22 +7,22 @@
 <br/>
 
 ### 🤖 Linguagens e Tecnologias
+
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="JavaScript" 
+    title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+    src = " https://img.icons8.com/office/40/react.png " alt = " react " />
+
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="JavaScript" 
+    title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+    src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
 <img 
     align="left" 
     alt="JavaScript" 
