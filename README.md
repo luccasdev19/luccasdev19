@@ -10,31 +10,47 @@
 
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+   src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+
+<img 
+    align="left" 
+    alt="HTML" 
+    title="HTML"
+    width="30px" 
+    style="padding-right: 10px;" 
+   src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+   
+<img 
+    align="left" 
+    alt="REACT" 
+    title="REACT"
     width="30px" 
     style="padding-right: 10px;" 
    src="https://img.icons8.com/office/40/react.png" alt="react"/>
 
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="TYPESCRIPT" 
+    title="TYPESCRIPT"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="NODE" 
+    title="NODE"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/fluency/96/node-js.png" alt="node-js"/>
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Pyhton"
+    alt="POSTGLESQL" 
+    title="POSTGLESQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
