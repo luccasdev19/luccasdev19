@@ -14,7 +14,7 @@
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src = " https://img.icons8.com/office/40/react.png " alt = " react " />
+   src="https://img.icons8.com/office/40/react.png" alt="react"/>
 
 <img 
     align="left" 
