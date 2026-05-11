@@ -39,7 +39,7 @@ Conhecimentos em desenvolvimento web e ferramentas de programação:
 
 ### 📫 Vamos nos conectar?
 <p align="left">
-  <a href="https://www.linkedin.com/in/lucas-oliveira-83826250" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-oliveira-83826b250/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
