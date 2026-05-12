@@ -31,12 +31,12 @@ Conhecimentos em desenvolvimento web e ferramentas de programação:
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=luccasdev19&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasdev19&layout=compact&langs_count=7&theme=dark" alt="Top Languages" />
+  <img height="120em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=luccasdev19&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="120em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=luccasdev19&layout=compact&langs_count=7&theme=dark" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=luccasdev19&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luccasdev19&theme=dark" />
 </p>
 
 ---
